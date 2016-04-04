@@ -1,0 +1,33 @@
+body {background: url(http://i68.tinypic.com/j9wnmd.png) repeat fixed;}
+
+#wrapper {box-shadow:5px 5px 5px #ff4d4d;
+		background-color:white;
+		width:950px;
+		margin:0 auto;}
+
+#leftcolumn {width:100px;
+		border:1px solid #e6e6e6;
+		float:left;
+		}
+
+#rightcolumn {margin-left:130px;
+		width:810px;
+		border:1px solid #e6e6e6;
+		text-align:center;
+		}
+
+#header {text-align:center;
+	font-family:Monotype Corsiva;
+	background-color:red; opacity:0.7;
+	border-radius:15px;} 
+
+a:link {color:red;
+	font-family:Century Gothic;
+	font-size:16px;
+	text-decoration:none;}
+
+a:hover {color:blue;}
+
+a:visited {color:#e4e4e4;}
+
+img:hover {transform: rotate(10deg);}
