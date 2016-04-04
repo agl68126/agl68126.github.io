@@ -28,5 +28,8 @@ a:link, a:visited, a:hover {color:black;
 	padding: 10px 0px 10px 0px;
 	color:white;
 	font-family:century gothic;}
-
- 
+	
+@media only screen and(max-device-width:500px) {
+ #content {width:20%;}
+ #extra {width:20%;
+}
