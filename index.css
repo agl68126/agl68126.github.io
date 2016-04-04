@@ -33,7 +33,7 @@ a:visited {color:#e4e4e4;}
 img:hover {transform: rotate(10deg);}
 
 @media only screen and (max-device-width: 500px) {
-    #leftcolumn {width:8%;}
+    
     #rightcolumn {width: 10%;}
     #wrapper {width:60%;}
 
