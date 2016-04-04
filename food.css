@@ -1,0 +1,35 @@
+body {background:radial-gradient(red,white);}
+
+#content {background-color:white;
+		text-align:center;
+		width:800px;
+		margin: 0 auto;
+		padding:0px 5px 20px 5px;}
+
+h1 {color: red;
+	font-size:40px;}
+
+a:link {
+	font-family: georgia;
+	text-decoration:none;
+	font-size:16px;
+	letter-spacing:2px;}
+
+a:hover, a:visited {color:red;}
+
+#footer {background-color:red;
+	width:800px;
+	margin: 0 auto;
+	text-align:center;
+	padding: 5px;}
+
+table, td {font-family:Century Gothic;
+	border:1px solid red;}
+
+form {font-family:Courier New;
+	font-size:16px;
+	color:white;}
+
+h3 {border:1px solid white; border-radius:15px;
+	width:120px;
+	margin:0 auto;}
