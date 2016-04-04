@@ -35,6 +35,6 @@ img:hover {transform: rotate(10deg);}
 @media only screen and (max-device-width: 500px) {
     #leftcolumn {width:8%;}
     #rightcolumn {width: 10%;}
-    #wrapper {width:130%;}
+    #wrapper {width:40%;}
 
 }
